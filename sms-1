@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Redirecting…</title>
+  <script>
+    window.onload = () =>
+      window.location.href = "sms:+16787777100?body=I%20would%20like%20to%20book%20a%20dive";
+  </script>
+</head>
+<body>
+  <p>Opening your SMS app…</p>
+</body>
+</html>
